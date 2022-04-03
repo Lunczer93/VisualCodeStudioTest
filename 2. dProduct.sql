@@ -66,7 +66,7 @@ SELECT DISTINCT *
 FROM #CategoryFurniture
 ORDER BY YearOfOrder desc
 ---
-
+-- Beca
 
 -- 5.Looking at Total Sales Amount, Total Profit and Quantity of Products and Year of Order by Office Supplies
 -- 5.a) Creating TEMP TABLE in order to store a subset of data from Tables.

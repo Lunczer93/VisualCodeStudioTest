@@ -10,7 +10,7 @@ WHERE code = '' and YEAR BETWEEN 2000 and 2020
 GROUP BY Entity,Coal_Consumption_Twh
 ORDER BY [Total Coal Consumption (TWh) between 2000 and 2020] DESC
 ---
-
+-- Beca
 
 --2. The total Coal consumption (TWh) by Country between 2000 and 2020. 
 --2.a) Creating a virtual table based on the result set of an SQL statement to show The total Coal consumption (TWh) by Country between 2000 and 2020. 
